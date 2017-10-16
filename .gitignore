@@ -201,3 +201,4 @@ ENV/
 .mypy_cache/
 
 !/docs/build/
+.idea
