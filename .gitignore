@@ -202,3 +202,4 @@ ENV/
 
 !/docs/build/
 .idea
+!/src/build/
